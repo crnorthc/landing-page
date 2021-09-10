@@ -45,7 +45,6 @@
                 <p class="text-light text-xl sm:text-2xl text-center max-w-3xl z-10 px-4">
                     Vapur is a simulated trading platform with a little twist. On Vapur, players trade with real-time market data against other players in wagered or non-wagered games.
                 </p>
-                <a class="bg-primary text-dark text-lg sm:text-3xl px-3 py-2 rounded-md z-10" href="#features">Learn More</a>
             </div>
 
             <div class="absolute w-full h-screen bottom-0 left-0 flex items-center justify-evenly">
@@ -134,29 +133,69 @@
                 <div class="low-3"></div>
             </section>
         </div>
-        <div class="bg-gradient-to-b from-secondary via-red-500 to-dark py-10 sm:py-20 px-10">
+        <div class="bg-gradient-to-b from-secondary via-red-500 to-dark py-3 sm:py-10 px-10">
+			<h2 class="text-light text-6xl pt-3 sm:text-6xl text-center">Features</h2>
 			<div class="flex items-center justify-evenly flex-col"></div>
-				<div class="flex items-center justify-evenly flex-col sm:flex-row">
-					<img class="w-2/3" src="MyGamesSmall.svg" alt="" />
-					<div class="flex items-center justify-evenly flex-col sm:flex-col">
-						<h1 class="text-light text-2xl sm:text-5xl text-center z-10 px-4">
+				<div class="flex items-center justify-evenly pt-12 flex-col md:flex-row">
+					<h1 class="text-light block md:hidden text-4xl pt-10 text-center z-10 px-4">
+						Join Games!
+					</h1>
+					<img class="w-full pt-4 md:pt-10 sm:w-3/4" src="MyGamesSmall.svg" alt="" />
+					<div class="flex items-center justify-evenly pt-3 flex-col sm:flex-col pt-0">
+						<h1 class="text-light hidden md:block text-5xl text-center z-10 px-4">
 							Join Games!
 						</h1>
-							<h1 class="text-light text-xl sm:text-xl text-center z-10 px-4 py-4">
+						<h1 class="text-light text-xl sm:text-xl text-center z-10 px-4 py-4">
 								Join public games or create private games to play with just your friends!
 						</h1>
 					</div>					
 				</div>
-                <div class="flex items-center justify-evenly flex-col sm:flex-row">
+				<div class="flex items-center justify-evenly flex-col py-20">
+					<h1 class="text-light text-4xl md:text-5xl text-center z-10 px-4">
+						Choose from Three Modes
+					</h1>
+					<img class="w-full pt-4 hidden md:block sm:w-3/4 pt-10" src="GameModes.svg" alt="" />
+					<div class="flex items-center w-4/5 justify-evenly flex-col pt-7 sm:pt-10">
+						<h1 class="text-light hidden md:block w-48 text-2xl sm:text-2xl text-center z-10">
+							Day Trade
+						</h1>
+						<img class="w-1/2 pt-4 block md:hidden sm:w-3/4" src="DayTrade.svg" alt="" />
+						<h1 class="text-light text-l sm:text-xl text-center z-10 px-4 pt-2">
+							With no comissions on market orders and games being between 1 and 48 hours, this game is suited for the experienced day trader.
+						</h1>
+					</div>
+					<div class="flex items-center w-4/5 justify-evenly pt-3 flex-col pt-7 sm:pt-10">
+						<h1 class="text-light w-48 hidden md:block text-2xl sm:text-2xl text-center z-10">
+							Tournament
+						</h1>
+						<img class="w-1/2 pt-4 block md:hidden sm:w-3/4" src="TournamentGame.svg" alt="" />
+						<h1 class="text-light text-l sm:text-xl text-center z-10 px-4 pt-2">
+							Consisting of four rounds, players are rewarded for making past each round with the top 20% of players doubling their wager!
+						</h1>
+					</div>
+					<div class="flex items-center w-4/5 justify-evenly pt-3 flex-col pt-7 sm:pt-10">
+						<h1 class="text-light w-48 hidden md:block text-2xl sm:text-2xl text-center z-10">
+							Long Game
+						</h1>
+						<img class="w-1/2 pt-4 block md:hidden sm:w-3/4" src="LongGame.svg" alt="" />
+						<h1 class="text-light text-l sm:text-xl text-center z-10 px-4 pt-2">
+							Most similar to actual market trading, players can play in long games for up to a year, being able set comissions and utilize options.
+						</h1>
+					</div>
+				</div>
+                <div class="flex items-center justify-evenly flex-col md:flex-row">
 					<div class="flex items-center justify-evenly flex-col sm:flex-col">
-						<h1 class="text-light text-2xl sm:text-5xl text-center z-10 px-4">
+						<h1 class="text-light text-4xl md:text-5xl text-center z-10 px-4">
 							Invest to Win!
 						</h1>
-							<h1 class="text-light text-xl sm:text-xl text-center z-10 py-4">
-								Grow your portfolio and win cryptocurrencies!
+							<h1 class="text-light hidden md:block text-xl sm:text-xl text-center z-10 py-4">
+								Grow your in-game portfolios and rise up the leaderboards to win cryptocurrencies!
 							</h1>
 					</div>					
-					<img class="w-3/4" src="InGameSmall.svg" alt="" />
+					<img class="w-full pt-4 sm:w-3/4 " src="InGameSmall.svg" alt="" />
+					<h1 class="text-light block md:hidden text-xl sm:text-xl text-center z-10 py-7">
+						Grow your in-game portfolios and rise up the leaderboards to win cryptocurrencies!
+					</h1>
 				</div>				
             </div>
         </div>
@@ -164,7 +203,7 @@
         <section class="bg-dark" id="roadmap">
             <h2 class="text-light text-6xl sm:text-6xl text-center pt-40">Roadmap</h2>
             <div class="wrapper max-w-7xl mx-auto py-20 px-6 sm:px-20 relative">
-                <div class="roadmapCenter-line md:left-1/2 md:block left-16 transform -translate-x-1/2 absolute w-1 bg-primary top-40"></div>
+                <div class="roadmapCenter-line hidden md:block md:left-1/2 md:block left-16 transform -translate-x-1/2 absolute w-1 bg-primary top-40"></div>
                 <div class="roadmapRow mb-10 roadmapRow-1 flex justify-start">
                     <section class="relative bg-medium text-light ring-8 ring-primary rounded-md p-10">
                         <div class="hidden md:block absolute roadmapCenterSticker rounded-full p-4 bg-medium">
@@ -174,12 +213,12 @@
                             <span class="roadmapTitle text-3xl">Q3 2021</span>
                         </div>						
                         <p class="text-xl pt-3">Grow our Community</p>
-							<div class="flex items-center py-2 px-6 sm:space-x-5">
-								<a class="w-5 h-5 sm:w-8 sm:h-8" href="https://t.me/joinchat/haNcc0MiOx4zMDNh" target="_blank"><img src="001-telegram.svg" alt="" /></a>
-								<a class="w-5 h-5 sm:w-8 sm:h-8" href="https://www.instagram.com/vapurofficial/" target="_blank"><img src="002-instagram.svg" alt="" /></a>
-								<a class="w-5 h-5 sm:w-8 sm:h-8" href="https://www.tiktok.com/@vapurofficial?lang=en" target="_blank"><img src="003-tiktok.svg" alt="" /></a>
-								<a class="w-5 h-5 sm:w-8 sm:h-8" href="https://twitter.com/VapurOfficial" target="_blank"><img src="004-twitter.svg" alt="" /></a>
-								<a class="w-5 h-5 sm:w-8 sm:h-8" href="https://www.linkedin.com/company/vapur" target="_blank"><img src="005-linkedin.svg" alt="" /></a>
+							<div class="flex space-x-4 items-center py-2 px-6 sm:space-x-5">
+								<a class="w-8 h-8" href="https://t.me/joinchat/haNcc0MiOx4zMDNh" target="_blank"><img src="001-telegram.svg" alt="" /></a>
+								<a class="w-8 h-8" href="https://www.instagram.com/vapurofficial/" target="_blank"><img src="002-instagram.svg" alt="" /></a>
+								<a class="w-8 h-8" href="https://www.tiktok.com/@vapurofficial?lang=en" target="_blank"><img src="003-tiktok.svg" alt="" /></a>
+								<a class="w-8 h-8" href="https://twitter.com/VapurOfficial" target="_blank"><img src="004-twitter.svg" alt="" /></a>
+								<a class="w-8 h-8" href="https://www.linkedin.com/company/vapur" target="_blank"><img src="005-linkedin.svg" alt="" /></a>
 							</div>
 						<p class="text-xl pt-4">Begin Private Sale</p>
                     </section>

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="920.88818"
-   height="497.65118"
-   viewBox="0 0 243.65165 131.67021"
+   width="960.05695"
+   height="477.86432"
+   viewBox="0 0 254.01505 126.43494"
    version="1.1"
    id="svg5"
    sodipodi:docname="MyGamesSmall.svg"
@@ -25,13 +25,13 @@
      showgrid="false"
      units="px"
      inkscape:zoom="1.0850694"
-     inkscape:cx="825.75363"
-     inkscape:cy="173.72161"
-     inkscape:window-width="1325"
-     inkscape:window-height="847"
-     inkscape:window-x="0"
+     inkscape:cx="518.40002"
+     inkscape:cy="128.56321"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="1440"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
@@ -40,59 +40,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-13.551039,-14.522914)">
+     transform="translate(-10.292314,-26.530088)">
     <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#1e292a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.232861;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect846"
-       width="243.65167"
-       height="131.67021"
-       x="13.551039"
-       y="14.522914"
-       ry="17.068798" />
-    <g
-       id="g47692"
-       transform="translate(3.813435,-1.2826978)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.61329px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Bold';stroke-width:0.041333"
-         x="113.39928"
-         y="41.984959"
-         id="text52189-3"
-         transform="scale(0.99059843,1.0094908)"><tspan
-           sodipodi:role="line"
-           id="tspan52187-9"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.05528px;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.041333;stroke-opacity:1"
-           x="113.39928"
-           y="41.984959">Pregame</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:6.61329px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Bold';stroke-width:0.041333"
-         x="139.55728"
-         y="42.142029"
-         id="text52189-8-5"
-         transform="scale(0.99059843,1.0094908)"><tspan
-           sodipodi:role="line"
-           id="tspan52187-1-1"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.05528px;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.041333;stroke-opacity:1"
-           x="139.55728"
-           y="42.142029">Active</tspan></text>
-      <path
-         style="fill:none;stroke:#eeeeee;stroke-width:0.313201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 113.95724,44.725323 h 15.35168"
-         id="path85813-7" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.8809px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.0742555"
-       x="110.3065"
-       y="29.155153"
-       id="text86843"
-       transform="scale(0.95206314,1.0503505)"><tspan
-         sodipodi:role="line"
-         id="tspan86841"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.8809px;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.0742555"
-         x="110.3065"
-         y="29.155153">My Games</tspan></text>
+       style="font-variation-settings:normal;vector-effect:none;fill:#1e292a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.232987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect846-3"
+       width="254.01506"
+       height="126.43494"
+       x="10.292314"
+       y="26.530088"
+       ry="14.816667" />
     <rect
        style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.607058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        id="rect88251-5"
@@ -113,7 +69,7 @@
      id="layer4"
      inkscape:label="gamealign"
      style="display:none"
-     transform="translate(-13.551039,-14.522914)">
+     transform="translate(-10.292314,-26.530088)">
     <path
        style="display:inline;fill:none;stroke:#eeeeee;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.40708"
        d="M 82.8445,48.947916 V 112.38177"
@@ -270,7 +226,7 @@
      id="layer3"
      inkscape:label="Games"
      style="display:inline"
-     transform="translate(-13.551039,-14.522914)">
+     transform="translate(-10.292314,-26.530088)">
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#1e292a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.259255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect88251"
@@ -1442,7 +1398,7 @@
      id="layer2"
      inkscape:label="align"
      style="display:none"
-     transform="translate(-13.551039,-14.522914)">
+     transform="translate(-10.292314,-26.530088)">
     <path
        style="fill:none;fill-opacity:1;stroke:#eeeeee;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.550885"
        d="M 135.51,-0.33601715 V 152.76179"
