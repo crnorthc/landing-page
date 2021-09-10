@@ -303,7 +303,7 @@ section .low-3 {
 }
 
 .wrapper .roadmapCenter-line {
- height: 61%;
+ height: 69% !important;
 }
 
 .wrapper .roadmapRow section::before {
