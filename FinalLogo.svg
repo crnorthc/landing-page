@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="108.8427mm"
+   width="130.8427mm"
    height="35.456356mm"
-   viewBox="0 0 108.8427 35.456356"
+   viewBox="0 0 130.8427 35.456356"
    version="1.1"
    id="svg1135"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1135662"
-     inkscape:cx="233.03509"
-     inkscape:cy="121.68113"
+     inkscape:zoom="0.5567831"
+     inkscape:cx="194.86942"
+     inkscape:cy="164.33688"
      inkscape:window-width="1312"
      inkscape:window-height="847"
      inkscape:window-x="0"
@@ -39,34 +39,38 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-88.227682,-114.88236)">
-    <text
-       xml:space="preserve"
-       style="font-weight:900;font-size:47.2823px;line-height:0;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';stroke-width:0.295515"
-       x="110.40551"
-       y="147.39592"
-       id="text2023"
-       transform="scale(1.0145407,0.9856677)"
-       inkscape:export-filename="/Users/calebnorthcott/path95990.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         id="tspan2021"
-         style="line-height:0.35;fill:#ffb900;fill-opacity:1;stroke-width:0.295515"
+    <g
+       id="g918"
+       transform="translate(10.999994)">
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:47.2823px;line-height:0;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';stroke-width:0.295515"
          x="110.40551"
-         y="147.39592"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.35;font-family:Glory;-inkscape-font-specification:'Glory Bold';fill:#ffb900;fill-opacity:1;stroke-width:0.295515"
-           id="tspan13905"
-           dx="0 0.067014411"
-           dy="0 0.022338135"><tspan
+         y="147.39592"
+         id="text2023"
+         transform="scale(1.0145407,0.9856677)"
+         inkscape:export-filename="/Users/calebnorthcott/path95990.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan2021"
+           style="line-height:0.35;fill:#ffb900;fill-opacity:1;stroke-width:0.295515"
+           x="110.40551"
+           y="147.39592"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.35;font-family:Glory;-inkscape-font-specification:'Glory Bold';fill:#ffb900;fill-opacity:1;stroke-width:0.295515"
+             id="tspan13905"
+             dx="0 0.067014411"
+             dy="0 0.022338135"><tspan
    style="line-height:0.35;letter-spacing:-0.0591033px;word-spacing:-0.0118205px;fill:#ffb900;fill-opacity:1;stroke-width:0.295515"
    id="tspan25251">a</tspan>pur</tspan></tspan></text>
-    <path
-       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.249222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 88.244917,115.45535 c 0,0 -0.06763,-0.20567 0.06505,-0.38676 0.132658,-0.18128 0.39163,-0.18623 0.39163,-0.18623 l 5.832147,0.004 c 0,0 0.272333,-0.003 0.458617,0.14066 0.186364,0.14419 0.254025,0.36145 0.254025,0.36145 l 6.283364,21.12592 c 0,0 0.16229,0.78546 0.30195,0.78033 0.13966,-0.004 0.29192,-0.77717 0.29192,-0.77717 l 6.26806,-21.033 c 0,0 0.0968,-0.33395 0.2403,-0.4394 0.14339,-0.10532 0.57703,-0.12719 0.57703,-0.12719 l 5.59882,-0.0107 c 0,0 0.32473,-0.0406 0.46352,0.12866 0.13879,0.16822 0.10573,0.48397 0.10573,0.48397 l -9.30309,28.99823 c 0,0 -0.0695,0.2138 -0.14659,0.28165 -0.077,0.0675 -0.39722,0.0841 -0.39722,0.0841 l -7.383821,-0.001 c 0,0 -0.275871,-0.0353 -0.363342,-0.0936 -0.0875,-0.0558 -0.193365,-0.32548 -0.193365,-0.32548 z"
-       id="path95990"
-       sodipodi:nodetypes="czcczcczcczcczcczcczcc"
-       inkscape:export-filename="/Users/calebnorthcott/path95990.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.249222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.244917,115.45535 c 0,0 -0.06763,-0.20567 0.06505,-0.38676 0.132658,-0.18128 0.39163,-0.18623 0.39163,-0.18623 l 5.832147,0.004 c 0,0 0.272333,-0.003 0.458617,0.14066 0.186364,0.14419 0.254025,0.36145 0.254025,0.36145 l 6.283364,21.12592 c 0,0 0.16229,0.78546 0.30195,0.78033 0.13966,-0.004 0.29192,-0.77717 0.29192,-0.77717 l 6.26806,-21.033 c 0,0 0.0968,-0.33395 0.2403,-0.4394 0.14339,-0.10532 0.57703,-0.12719 0.57703,-0.12719 l 5.59882,-0.0107 c 0,0 0.32473,-0.0406 0.46352,0.12866 0.13879,0.16822 0.10573,0.48397 0.10573,0.48397 l -9.30309,28.99823 c 0,0 -0.0695,0.2138 -0.14659,0.28165 -0.077,0.0675 -0.39722,0.0841 -0.39722,0.0841 l -7.383821,-0.001 c 0,0 -0.275871,-0.0353 -0.363342,-0.0936 -0.0875,-0.0558 -0.193365,-0.32548 -0.193365,-0.32548 z"
+         id="path95990"
+         sodipodi:nodetypes="czcczcczcczcczcczcczcc"
+         inkscape:export-filename="/Users/calebnorthcott/path95990.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
   </g>
 </svg>
