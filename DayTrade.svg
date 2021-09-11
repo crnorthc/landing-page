@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="1"
-     inkscape:cx="366.5"
-     inkscape:cy="92.5"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="212.30881"
+     inkscape:cy="98.464619"
      inkscape:window-width="2560"
      inkscape:window-height="1027"
      inkscape:window-x="1440"
@@ -68,25 +68,28 @@
          style="stroke-width:0.264583"
          x="54.910526"
          y="26.098869" /></text>
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect1590"
-       width="53.445831"
-       height="52.652084"
-       x="34.074879"
-       y="43.655823"
-       ry="3.5701287" />
-    <text
-       xml:space="preserve"
-       style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-       x="46.045433"
-       y="71.330887"
-       id="text3346"><tspan
-         sodipodi:role="line"
-         id="tspan3344"
-         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+    <g
+       id="g1308">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect1590"
+         width="53.445831"
+         height="52.652084"
+         x="34.074879"
+         y="43.655823"
+         ry="3.5701287" />
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
          x="46.045433"
-         y="71.330887">Day Trade</tspan></text>
+         y="71.330887"
+         id="text3346"><tspan
+           sodipodi:role="line"
+           id="tspan3344"
+           style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+           x="46.045433"
+           y="71.330887">Day Trade</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
