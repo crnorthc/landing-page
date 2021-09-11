@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="201.99998"
-   height="199"
-   viewBox="0 0 53.445828 52.652081"
+   width="219.99998"
+   height="211"
+   viewBox="0 0 58.208322 55.827077"
    version="1.1"
    id="svg55108"
    sodipodi:docname="DayTrade.svg"
@@ -24,13 +24,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="212.30881"
-     inkscape:cy="98.464619"
-     inkscape:window-width="2560"
-     inkscape:window-height="1027"
-     inkscape:window-x="1440"
-     inkscape:window-y="25"
+     inkscape:zoom="2"
+     inkscape:cx="78.5"
+     inkscape:cy="95.75"
+     inkscape:window-width="1631"
+     inkscape:window-height="847"
+     inkscape:window-x="1738"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -68,27 +68,83 @@
          style="stroke-width:0.264583"
          x="54.910526"
          y="26.098869" /></text>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1590"
+       width="53.445831"
+       height="52.652084"
+       x="36.456127"
+       y="45.243324"
+       ry="3.5701287" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+       x="48.426682"
+       y="55.332054"
+       id="text3346"><tspan
+         sodipodi:role="line"
+         id="tspan3344"
+         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+         x="48.426682"
+         y="55.332054">Day Trade</tspan></text>
     <g
-       id="g1308">
-      <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="rect1590"
-         width="53.445831"
-         height="52.652084"
-         x="34.074879"
-         y="43.655823"
-         ry="3.5701287" />
+       id="g22782"
+       transform="translate(-2.6375866e-7,-0.23085653)">
       <text
          xml:space="preserve"
-         style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-         x="46.045433"
-         y="71.330887"
-         id="text3346"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+         x="40.334885"
+         y="65.2267"
+         id="text9612"><tspan
            sodipodi:role="line"
-           id="tspan3344"
-           style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-           x="46.045433"
-           y="71.330887">Day Trade</tspan></text>
+           id="tspan9610"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="40.334885"
+           y="65.2267">With no comissions on market</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+         x="44.129696"
+         y="70.404793"
+         id="text19986"><tspan
+           sodipodi:role="line"
+           id="tspan19984"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="44.129696"
+           y="70.404793">orders and games lasting</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+         x="41.50856"
+         y="76.064072"
+         id="text46064"><tspan
+           sodipodi:role="line"
+           id="tspan46062"
+           style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="41.50856"
+           y="76.064072">between 1 and 48 hours, this</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+         x="46.627377"
+         y="81.665146"
+         id="text50508"><tspan
+           sodipodi:role="line"
+           id="tspan50506"
+           style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="46.627377"
+           y="81.665146">game is suited for the</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+         x="45.393162"
+         y="87.270096"
+         id="text50508-7"><tspan
+           sodipodi:role="line"
+           id="tspan50506-9"
+           style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="45.393162"
+           y="87.270096">experienced day trader.</tspan></text>
     </g>
   </g>
   <g

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="960.05695"
-   height="300.94543"
-   viewBox="0 0 254.01506 79.625143"
+   width="872.37567"
+   height="371.65613"
+   viewBox="0 0 230.81606 98.334013"
    version="1.1"
    id="svg55108"
    sodipodi:docname="GameModes.svg"
@@ -24,12 +24,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="1"
-     inkscape:cx="464.5"
-     inkscape:cy="143.5"
-     inkscape:window-width="2560"
-     inkscape:window-height="1027"
-     inkscape:window-x="1440"
+     inkscape:zoom="0.5"
+     inkscape:cx="485"
+     inkscape:cy="-19"
+     inkscape:window-width="1312"
+     inkscape:window-height="847"
+     inkscape:window-x="1449"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -56,15 +56,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.2364988,-30.14337)">
+     transform="translate(-18.713465,-30.14337)">
     <rect
-       style="font-variation-settings:normal;vector-effect:none;fill:#1e292a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.184894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       style="font-variation-settings:normal;vector-effect:none;fill:#1e292a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.195863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        id="rect846"
-       width="254.01506"
-       height="79.625145"
-       x="8.2364988"
+       width="230.81607"
+       height="98.334015"
+       x="18.713465"
        y="30.14337"
-       ry="9.3311176" />
+       ry="11.523574" />
     <text
        xml:space="preserve"
        style="font-weight:900;font-size:8.46667px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';stroke-width:0.264583"
@@ -76,70 +76,266 @@
          style="stroke-width:0.264583"
          x="54.910526"
          y="26.098869" /></text>
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect1590"
-       width="53.445831"
-       height="52.652084"
-       x="34.074879"
-       y="43.655823"
-       ry="3.5701287" />
-    <rect
-       style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       id="rect1590-9"
-       width="53.445831"
-       height="52.652084"
-       x="108.8585"
-       y="43.527977"
-       ry="3.5701287" />
-    <rect
-       style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       id="rect1590-3"
-       width="53.445831"
-       height="52.652084"
-       x="183.28897"
-       y="43.660271"
-       ry="3.5701287" />
+    <g
+       id="g1957"
+       transform="translate(14.162743,16.233597)">
+      <g
+         id="g78271"
+         transform="translate(-14.500205,0.10192395)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect1590-9"
+           width="53.445999"
+           height="52.652084"
+           x="108.8585"
+           y="43.527977"
+           ry="3.5701287" />
+        <g
+           id="g78097">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="114.24413"
+             y="63.497772"
+             id="text9612-9"><tspan
+               sodipodi:role="line"
+               id="tspan9610-9"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="114.24413"
+               y="63.497772">Consististing of four rounds,</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="112.9054"
+             y="68.160843"
+             id="text19986-7"><tspan
+               sodipodi:role="line"
+               id="tspan19984-0"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="112.9054"
+               y="68.160843">players are rewarded for each</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="115.24094"
+             y="73.305092"
+             id="text46064-3"><tspan
+               sodipodi:role="line"
+               id="tspan46062-9"
+               style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="115.24094"
+               y="73.305092">round with the top 20% of</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="113.68828"
+             y="78.464874"
+             id="text50508-8"><tspan
+               sodipodi:role="line"
+               id="tspan50506-65"
+               style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="113.68828"
+               y="78.464874">players doubling their wager!</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+           x="117.71293"
+           y="53.542282"
+           id="text6452"><tspan
+             sodipodi:role="line"
+             id="tspan6450"
+             style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+             x="117.71293"
+             y="53.542282">Tournament</tspan></text>
+      </g>
+      <g
+         id="g1895"
+         transform="translate(-5.3097005e-6,-1.4624262)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect1590-8"
+           width="53.445831"
+           height="52.652084"
+           x="163.54692"
+           y="45.092327"
+           ry="3.5701287" />
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+           x="173.84178"
+           y="55.181057"
+           id="text3346-0"><tspan
+             sodipodi:role="line"
+             id="tspan3344-2"
+             style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+             x="173.84178"
+             y="55.181057">Long Game</tspan></text>
+        <g
+           id="g56752"
+           transform="translate(129.47204,7.0140548)">
+          <g
+             id="g93099"
+             transform="translate(0,-2.5504821)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="38.439705"
+               y="60.493801"
+               id="text9612"><tspan
+                 sodipodi:role="line"
+                 id="tspan9610"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+                 x="38.439705"
+                 y="60.493801">Most similar to actual market</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="36.989517"
+               y="65.156868"
+               id="text19986"><tspan
+                 sodipodi:role="line"
+                 id="tspan19984"
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+                 x="36.989517"
+                 y="65.156868">trading, players can play in long</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="38.67136"
+               y="70.301117"
+               id="text46064"><tspan
+                 sodipodi:role="line"
+                 id="tspan46062"
+                 style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+                 x="38.67136"
+                 y="70.301117">games for up to a year, being</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="42.619068"
+               y="75.460899"
+               id="text50508"><tspan
+                 sodipodi:role="line"
+                 id="tspan50506"
+                 style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+                 x="42.619068"
+                 y="75.460899">able to set commissions</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="46.954777"
+               y="80.60067"
+               id="text50508-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan50506-6"
+                 style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+                 x="46.954777"
+                 y="80.60067">and trade options.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g1911"
+         transform="translate(0,-1.7270098)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect1590"
+           width="53.445831"
+           height="52.652084"
+           x="25.169832"
+           y="45.356911"
+           ry="3.5701287" />
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+           x="37.140388"
+           y="55.445641"
+           id="text3346"><tspan
+             sodipodi:role="line"
+             id="tspan3344"
+             style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+             x="37.140388"
+             y="55.445641">Day Trade</tspan></text>
+        <g
+           id="g22782"
+           transform="translate(-11.286294,-0.11726965)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="40.334885"
+             y="65.2267"
+             id="text9612-2"><tspan
+               sodipodi:role="line"
+               id="tspan9610-7"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="40.334885"
+               y="65.2267">With no comissions on market</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="44.129696"
+             y="70.404793"
+             id="text19986-0"><tspan
+               sodipodi:role="line"
+               id="tspan19984-3"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="44.129696"
+               y="70.404793">orders and games lasting</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="41.50856"
+             y="76.064072"
+             id="text46064-9"><tspan
+               sodipodi:role="line"
+               id="tspan46062-99"
+               style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="41.50856"
+               y="76.064072">between 1 and 48 hours, this</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="46.627377"
+             y="81.665146"
+             id="text50508-1"><tspan
+               sodipodi:role="line"
+               id="tspan50506-7"
+               style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="46.627377"
+               y="81.665146">game is suited for the</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="45.393162"
+             y="87.270096"
+             id="text50508-7"><tspan
+               sodipodi:role="line"
+               id="tspan50506-9"
+               style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+               x="45.393162"
+               y="87.270096">experienced day trader.</tspan></text>
+        </g>
+      </g>
+    </g>
     <text
        xml:space="preserve"
-       style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-       x="46.045433"
-       y="71.330887"
-       id="text3346"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+       x="70.590118"
+       y="48.118103"
+       id="text3122"><tspan
          sodipodi:role="line"
-         id="tspan3344"
-         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-         x="46.045433"
-         y="71.330887">Day Trade</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-       x="117.71292"
-       y="71.798531"
-       id="text6452"><tspan
-         sodipodi:role="line"
-         id="tspan6450"
-         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-         x="117.71292"
-         y="71.798531">Tournament</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-       x="193.58383"
-       y="71.211159"
-       id="text7674"><tspan
-         sodipodi:role="line"
-         id="tspan7672"
-         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-         x="193.58383"
-         y="71.211159">Long Game</tspan></text>
+         id="tspan3120"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.7px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+         x="70.590118"
+         y="48.118103">Choose from Three Modes</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="align"
      style="display:none"
-     transform="translate(-8.2364988,-30.14337)"
+     transform="translate(-18.713465,-30.14337)"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#eeeeee;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.550885"

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="201.99998"
-   height="199"
-   viewBox="0 0 53.445828 52.652081"
+   width="219.99998"
+   height="211"
+   viewBox="0 0 58.208322 55.827077"
    version="1.1"
    id="svg55108"
    sodipodi:docname="LongGame.svg"
@@ -24,13 +24,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="1"
-     inkscape:cx="-210.5"
-     inkscape:cy="91.5"
-     inkscape:window-width="2560"
-     inkscape:window-height="1027"
-     inkscape:window-x="1440"
-     inkscape:window-y="25"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-18.384776"
+     inkscape:cy="85.206365"
+     inkscape:window-width="1631"
+     inkscape:window-height="847"
+     inkscape:window-x="1441"
+     inkscape:window-y="47"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -56,7 +56,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-107.80017,-46.83527)">
+     transform="translate(-34.074879,-43.655823)">
     <text
        xml:space="preserve"
        style="font-weight:900;font-size:8.46667px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Heavy';stroke-width:0.264583"
@@ -68,27 +68,87 @@
          style="stroke-width:0.264583"
          x="54.910526"
          y="26.098869" /></text>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1590"
+       width="53.445831"
+       height="52.652084"
+       x="36.456131"
+       y="45.243324"
+       ry="3.5701287" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+       x="46.750988"
+       y="55.332054"
+       id="text3346"><tspan
+         sodipodi:role="line"
+         id="tspan3344"
+         style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
+         x="46.750988"
+         y="55.332054">Long Game</tspan></text>
     <g
-       id="g1247">
-      <rect
-         style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-         id="rect1590-3"
-         width="53.445831"
-         height="52.652084"
-         x="107.80017"
-         y="46.83527"
-         ry="3.5701287" />
-      <text
-         xml:space="preserve"
-         style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-         x="118.09503"
-         y="74.386154"
-         id="text7674"><tspan
-           sodipodi:role="line"
-           id="tspan7672"
-           style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-           x="118.09503"
-           y="74.386154">Long Game</tspan></text>
+       id="g56752"
+       transform="translate(2.3812496,7.1650513)">
+      <g
+         id="g93099"
+         transform="translate(0,-2.5504821)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="38.439705"
+           y="60.493801"
+           id="text9612"><tspan
+             sodipodi:role="line"
+             id="tspan9610"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="38.439705"
+             y="60.493801">Most similar to actual market</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="36.989517"
+           y="65.156868"
+           id="text19986"><tspan
+             sodipodi:role="line"
+             id="tspan19984"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="36.989517"
+             y="65.156868">trading, players can play in long</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="38.67136"
+           y="70.301117"
+           id="text46064"><tspan
+             sodipodi:role="line"
+             id="tspan46062"
+             style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="38.67136"
+             y="70.301117">games for up to a year, being</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="42.619068"
+           y="75.460899"
+           id="text50508"><tspan
+             sodipodi:role="line"
+             id="tspan50506"
+             style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="42.619068"
+             y="75.460899">able to set commissions</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="46.954777"
+           y="80.60067"
+           id="text50508-6"><tspan
+             sodipodi:role="line"
+             id="tspan50506-6"
+             style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="46.954777"
+             y="80.60067">and trade options.</tspan></text>
+      </g>
     </g>
   </g>
   <g
@@ -96,7 +156,7 @@
      id="layer2"
      inkscape:label="align"
      style="display:none"
-     transform="translate(-107.80017,-46.83527)"
+     transform="translate(-34.074879,-43.655823)"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#eeeeee;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.550885"

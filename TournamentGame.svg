@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="201.99998"
-   height="199"
-   viewBox="0 0 53.445828 52.652081"
+   width="219.99998"
+   height="211"
+   viewBox="0 0 58.208322 55.827077"
    version="1.1"
    id="svg55108"
    sodipodi:docname="TournamentGame.svg"
@@ -24,12 +24,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="1"
-     inkscape:cx="-214.5"
-     inkscape:cy="104.5"
-     inkscape:window-width="2560"
-     inkscape:window-height="1027"
-     inkscape:window-x="1440"
+     inkscape:zoom="2"
+     inkscape:cx="76"
+     inkscape:cy="97.25"
+     inkscape:window-width="1545"
+     inkscape:window-height="995"
+     inkscape:window-x="1442"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -69,26 +69,74 @@
          x="54.910526"
          y="26.098869" /></text>
     <g
-       id="g1186">
+       id="g78271"
+       transform="translate(2.3811675,1.5874995)">
       <rect
          style="font-variation-settings:normal;vector-effect:none;fill:#344246;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
          id="rect1590-9"
-         width="53.445831"
+         width="53.445999"
          height="52.652084"
          x="108.8585"
          y="43.527977"
          ry="3.5701287" />
+      <g
+         id="g78097">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="114.24413"
+           y="63.497772"
+           id="text9612"><tspan
+             sodipodi:role="line"
+             id="tspan9610"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="114.24413"
+             y="63.497772">Consististing of four rounds,</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="112.9054"
+           y="68.160843"
+           id="text19986"><tspan
+             sodipodi:role="line"
+             id="tspan19984"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="112.9054"
+             y="68.160843">players are rewarded for each</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="115.24094"
+           y="73.305092"
+           id="text46064"><tspan
+             sodipodi:role="line"
+             id="tspan46062"
+             style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="115.24094"
+             y="73.305092">round with the top 20% of</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:3.88056px;line-height:1.25;font-family:Glory;-inkscape-font-specification:'Glory, Semi-Bold';fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+           x="113.68828"
+           y="78.464874"
+           id="text50508"><tspan
+             sodipodi:role="line"
+             id="tspan50506"
+             style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583"
+             x="113.68828"
+             y="78.464874">players doubling their wager!</tspan></text>
+      </g>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:5.64444px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-         x="117.71292"
-         y="71.798531"
+         x="117.71293"
+         y="53.542282"
          id="text6452"><tspan
            sodipodi:role="line"
            id="tspan6450"
            style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.550885"
-           x="117.71292"
-           y="71.798531">Tournament</tspan></text>
+           x="117.71293"
+           y="53.542282">Tournament</tspan></text>
     </g>
   </g>
   <g
