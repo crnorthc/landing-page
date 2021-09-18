@@ -74,12 +74,11 @@
 .token {
  position: absolute;
  cursor: default;
- animation: tokenAnimate 20s linear infinite;
- transition: background-color 0.2s linear;
+ transition: all 0.2s linear;
 }
 
 .token:hover {
- background-color: #eee;
+ translate: scale(5);
 }
 
 @keyframes tokenAnimate {
@@ -303,7 +302,7 @@ section .low-3 {
 }
 
 .wrapper .roadmapCenter-line {
- height: 69% !important;
+ height: 63% !important;
 }
 
 .wrapper .roadmapRow section::before {
