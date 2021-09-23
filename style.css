@@ -5,6 +5,18 @@
 
 /* page dividers */
 
+.ribbon {
+   fill:#eeeeee;
+   fill-opacity:1;
+   stroke:none;
+   stroke-width:0.344266;
+   stroke-linecap:butt;
+   stroke-linejoin:miter;
+   stroke-miterlimit:4;
+   stroke-dasharray:none;
+   stroke-opacity:1
+}
+
 .custom-shape-divider-top-1631037182 {
  position: absolute;
  top: 0;

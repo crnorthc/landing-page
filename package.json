@@ -5,7 +5,7 @@
  "main": "index.js",
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
-  "build-css": "tailwind build style.css -o build/tailwind.css"
+  "build-css": "tailwind build style.css -o tailwind.css"
  },
  "author": "Caleb and Matt",
  "license": "ISC",
