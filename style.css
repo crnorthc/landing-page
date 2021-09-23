@@ -163,7 +163,7 @@ section .wave {
  bottom: 0;
  left: 0;
  width: 100%;
- background: url(wavey.png);
+ background: url(wavey.webp);
  background-size: 1000px 100px;
  filter: blur(2px);
 }
@@ -286,7 +286,8 @@ section .low-3 {
  }
 }
 
-/* Game Modes */
+/* Features */
+
 .myAccordion .accordionContentBx .content {
  overflow: hidden;
  transition: 0.5s;
@@ -295,6 +296,14 @@ section .low-3 {
 
 .myAccordion .accordionContentBx.active .content {
  height: 150px;
+}
+
+.graphy {
+ background: url("graph.png");
+ height: 350px; /* You must set a specified height */
+ background-position: center; /* Center the image */
+ background-repeat: no-repeat; /* Do not repeat the image */
+ background-size: cover; /* Resize the background image to cover the entire container */
 }
 /* Roadmap */
 
@@ -344,7 +353,17 @@ section .low-3 {
  top: 25px;
 }
 
+@media (max-width: 1025px) {
+ .gamemode {
+  min-height: 200px;
+ }
+}
+
 @media (max-width: 768px) {
+ .gamemode {
+  min-height: 200px;
+ }
+
  .wrapper .roadmapRow section {
   width: 100%;
  }
@@ -355,6 +374,24 @@ section .low-3 {
  .roadmapRow-4 section::before {
   display: none;
  }
+
+ .graphy {
+  width: 100%; /* You must set a specified height */
+  height: 40vw;
+ }
+}
+
+.line-up-item::before {
+ position: absolute;
+ content: "";
+ height: 44px;
+ width: 43px;
+ background: #eee;
+ top: 8px;
+ right: -21px;
+ border-radius: 2px;
+
+ transform: rotate(45deg);
 }
 
 @media only screen and (max-width: 650px) {
