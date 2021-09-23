@@ -5,18 +5,6 @@
 
 /* page dividers */
 
-.ribbon {
-   fill:#eeeeee;
-   fill-opacity:1;
-   stroke:none;
-   stroke-width:0.344266;
-   stroke-linecap:butt;
-   stroke-linejoin:miter;
-   stroke-miterlimit:4;
-   stroke-dasharray:none;
-   stroke-opacity:1
-}
-
 .custom-shape-divider-top-1631037182 {
  position: absolute;
  top: 0;
@@ -86,11 +74,12 @@
 .token {
  position: absolute;
  cursor: default;
- transition: all 0.2s linear;
+ animation: tokenAnimate 20s linear infinite;
+ transition: background-color 0.2s linear;
 }
 
 .token:hover {
- translate: scale(5);
+ background-color: #eee;
 }
 
 @keyframes tokenAnimate {
@@ -314,7 +303,7 @@ section .low-3 {
 }
 
 .wrapper .roadmapCenter-line {
- height: 63% !important;
+ height: 69% !important;
 }
 
 .wrapper .roadmapRow section::before {
@@ -385,15 +374,12 @@ section .low-3 {
   transform: scale(.5) translateY(0) rotate(0deg);
   opacity: 0;
  }
-
  10% {
   opacity: 1;
  }
-
  80% {
   opacity: 1;
  }
-
  100% {
   transform: scale(1) translateY(-300%) rotate(0deg);
   opacity: 0;
@@ -410,7 +396,6 @@ section .low-3 {
  height: 150px;
  background: #FFB900;
 }
-
 section .step1 {
  z-index: 2000;
  left: 0;
@@ -421,7 +406,6 @@ section .step2 {
  right: 0;
  border-radius: 30px 0 0 0;
 }
-
 section .vapur {
  position:absolute;
  bottom:0;
@@ -429,7 +413,6 @@ section .vapur {
  z-index:0;
  padding:0 20px;
 }
-
 section .vapur span {
  position:relative;
  bottom:0;
@@ -445,24 +428,18 @@ section .vapur span {
  filter: blur(20px);
  animation-delay: calc(var(--i) * -0.5s);
 }
-
 @keyframes vapurAnimate {
  0%{
   transform: translateY(0) scale(1);
   opacity:1;
  }
-
  15%{
   opacity:1;
  }
-
  50%{
     transform: translateY(-400px) scale(5);
-
  }
-
  100%{
     transform: translateY(-800px) scale(10);
-
  }
 } */
