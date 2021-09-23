@@ -163,7 +163,7 @@ section .wave {
  bottom: 0;
  left: 0;
  width: 100%;
- background: url(wavey.webp);
+ background: url(wavey.png);
  background-size: 1000px 100px;
  filter: blur(2px);
 }
@@ -286,8 +286,7 @@ section .low-3 {
  }
 }
 
-/* Features */
-
+/* Game Modes */
 .myAccordion .accordionContentBx .content {
  overflow: hidden;
  transition: 0.5s;
@@ -296,14 +295,6 @@ section .low-3 {
 
 .myAccordion .accordionContentBx.active .content {
  height: 150px;
-}
-
-.graphy {
- background: url("graph.png");
- height: 350px; /* You must set a specified height */
- background-position: center; /* Center the image */
- background-repeat: no-repeat; /* Do not repeat the image */
- background-size: cover; /* Resize the background image to cover the entire container */
 }
 /* Roadmap */
 
@@ -353,17 +344,7 @@ section .low-3 {
  top: 25px;
 }
 
-@media (max-width: 1025px) {
- .gamemode {
-  min-height: 200px;
- }
-}
-
 @media (max-width: 768px) {
- .gamemode {
-  min-height: 200px;
- }
-
  .wrapper .roadmapRow section {
   width: 100%;
  }
@@ -374,24 +355,6 @@ section .low-3 {
  .roadmapRow-4 section::before {
   display: none;
  }
-
- .graphy {
-  width: 100%; /* You must set a specified height */
-  height: 40vw;
- }
-}
-
-.line-up-item::before {
- position: absolute;
- content: "";
- height: 44px;
- width: 43px;
- background: #eee;
- top: 8px;
- right: -21px;
- border-radius: 2px;
-
- transform: rotate(45deg);
 }
 
 @media only screen and (max-width: 650px) {
@@ -411,15 +374,12 @@ section .low-3 {
   transform: scale(.5) translateY(0) rotate(0deg);
   opacity: 0;
  }
-
  10% {
   opacity: 1;
  }
-
  80% {
   opacity: 1;
  }
-
  100% {
   transform: scale(1) translateY(-300%) rotate(0deg);
   opacity: 0;
@@ -436,7 +396,6 @@ section .low-3 {
  height: 150px;
  background: #FFB900;
 }
-
 section .step1 {
  z-index: 2000;
  left: 0;
@@ -447,7 +406,6 @@ section .step2 {
  right: 0;
  border-radius: 30px 0 0 0;
 }
-
 section .vapur {
  position:absolute;
  bottom:0;
@@ -455,7 +413,6 @@ section .vapur {
  z-index:0;
  padding:0 20px;
 }
-
 section .vapur span {
  position:relative;
  bottom:0;
@@ -471,24 +428,18 @@ section .vapur span {
  filter: blur(20px);
  animation-delay: calc(var(--i) * -0.5s);
 }
-
 @keyframes vapurAnimate {
  0%{
   transform: translateY(0) scale(1);
   opacity:1;
  }
-
  15%{
   opacity:1;
  }
-
  50%{
     transform: translateY(-400px) scale(5);
-
  }
-
  100%{
     transform: translateY(-800px) scale(10);
-
  }
 } */

@@ -1,5 +1,4 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
-
 module.exports = {
  purge: [],
  darkMode: false, // or 'media' or 'class'
@@ -20,6 +19,8 @@ module.exports = {
    green: "#008000",
    blue: "#0000ff",
    skyblue: "#209fff",
+   greenHue: "#28a74542",
+   redHue: "#FF000042",
   },
  },
  variants: {
