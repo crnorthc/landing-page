@@ -22,6 +22,7 @@
   <title>Vapur</title>
  </head>
  <body>
+  <div class='tokenCont'></div>
   <div class="fixed w-full z-20">
    <div
     class="
@@ -262,7 +263,7 @@
 
   <section
    id="features"
-   class="bg-secondary pt-20 sm:pt-40 pb-10 sm:pb-20 px-5 sm:px-10"
+   class="bg-secondary pt-20 sm:pt-40 pb-10 sm:pb-20 px-5 sm:px-10 over-tokens"
   >
    <h2 class="text-light text-5xl sm:text-6xl pt-3 text-center glory">
     Game Overview
@@ -286,24 +287,27 @@
   <section
    id="features"
    class="
-    bg-gradient-to-b
-    from-secondary
-    via-red-500
-    to-dark
+    bg-dark
+   "
+  >
+  <div 
+   class="
     py-10
     sm:py-20
     px-5
     sm:px-10
-   "
-  >
+    over-tokens
+    bg-gradient-to-b
+    from-secondary
+    to-transparent">
    <h2 class="text-light text-5xl sm:text-6xl pt-3 text-center glory">Features</h2>
 
    <div class="pt-16 sm:pt-24">
-    <h3 class="text-center text-light text-4xl sm:text-5xl pb-10 glory">
+    <h3 class="text-center text-light over-tokens text-4xl sm:text-5xl pb-10 glory">
      Join Games!
     </h3>
     <p
-     class="text-light mx-auto max-w-4xl text-xl sm:text-2xl text-center pb-10"
+     class="text-light mx-auto max-w-4xl over-tokens text-xl sm:text-2xl text-center pb-10"
     >
      Players will have three leagues to choose from: stocks, cryptos, and the
      combination of both. The stock and combo game types will be available daily
@@ -312,7 +316,7 @@
      (9:30 A.M. – 9:30 A.M) and weekly (Monday 9:30 A.M. – Monday 9:30 A.M.).
     </p>
 
-    <div class="flex flex-col p-10 bg-dark mx-auto max-w-6xl rounded-xl">
+    <div class="flex flex-col p-10 bg-dark over-tokens mx-auto max-w-6xl rounded-xl">
      <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
       <div class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
        <div
@@ -602,11 +606,11 @@
    </div>
 
    <div class="pt-16 sm:pt-24">
-    <h3 class="text-center text-light text-4xl sm:text-5xl pb-10 glory">
+    <h3 class="text-center text-light over-tokens text-4xl sm:text-5xl pb-10 glory">
      Grow Your Portfolio!
     </h3>
     <p
-     class="text-light mx-auto max-w-4xl text-xl sm:text-2xl text-center pb-10"
+     class="text-light over-tokens mx-auto max-w-4xl text-xl sm:text-2xl text-center pb-10"
     >
      Once a player chooses a game, they have until the start time to choose
      their lineup of stocks, cryptos, or both. For every game, players will have
@@ -624,6 +628,7 @@
       bg-dark
       px-5
       py-10
+      over-tokens
       rounded-xl
      "
     >
@@ -760,7 +765,7 @@
     </div>
    </div>
    <div class="pt-16 sm:pt-24">
-    <h3 class="text-center text-light text-4xl sm:text-5xl pb-10 glory">
+    <h3 class="text-center text-light over-tokens text-4xl sm:text-5xl pb-10 glory">
      Win Crypto!
     </h3>
 
@@ -773,6 +778,7 @@
       bg-dark
       px-5
       py-10
+      over-tokens
       rounded-xl
      "
     >
@@ -1211,10 +1217,11 @@
      </div>
     </div>
    </div>
+    </div>
   </section>
 
   <section class="bg-dark" id="roadmap">
-   <h2 class="text-light text-5xl sm:text-6xl text-center pt-10 sm:pt-20 glory">
+   <h2 class="text-light text-5xl sm:text-6xl text-center pt-10 sm:pt-20 over-tokens glory">
     Roadmap
    </h2>
    <div class="wrapper max-w-7xl mx-auto pt-20 pb-10 px-6 sm:px-20 relative">
@@ -1402,7 +1409,7 @@
     </div>
    </div>
   </section>
-  <div class="w-full flex flex-col bg-medium py-5 items-center">
+  <div class="w-full flex over-tokens flex-col bg-medium py-5 items-center">
    <img class="w-32 hidden sm:block" src="FinalLogo.svg" alt="" />
    <img class="w-20 sm:hidden" src="FinalLogo.svg" alt="" />
    <div
@@ -1460,13 +1467,13 @@
    }
 
    function createToken() {
-    const fuck = document.querySelector(".showcase");
+    const fuck = document.querySelector(".tokenCont"); //Tokens rise from here
     const token = document.createElement("img");
     let crypto = Math.floor(Math.random() * 4);
     let size = Math.random() * 50;
     token.className = "token";
     token.style.borderRadius = 100 + "%";
-    token.style.zIndex = Math.floor(Math.random() * 4) + 2;
+    token.style.zIndex = 6;
 
     if (crypto == 0) {
      token.style.background = "rgb(151, 151, 151)";
@@ -1500,9 +1507,9 @@
 
     setTimeout(() => {
      token.remove();
-    }, 40000);
+    }, 200000);
    }
-   setInterval(createToken, 10000);
+   setInterval(createToken, 5000);
 
    // accordion
    const accordion = document.getElementsByClassName("accordionContentBx");

@@ -88,16 +88,33 @@
  height: 2px;
 }
 
+section * {
+   z-index: 8;
+}
+
+
 .token {
  position: absolute;
  cursor: default;
- animation: tokenAnimate 20s linear infinite;
+ animation: tokenAnimate 180s linear infinite;
  transition: background-color 0.2s linear;
 }
 
 .token:hover {
  background-color: #eee;
 }
+
+.over-tokens {
+   z-index: 8;
+   position: relative;
+}
+
+body {
+   position: absolute;
+   width: 100%;
+   height: inherit;
+   overflow-x: hidden;
+  }
 
 @keyframes tokenAnimate {
  0% {
@@ -107,17 +124,17 @@
  }
 
  10% {
-  opacity: 0.5;
+  opacity: 0.3;
   filter: blur(0px);
  }
 
  80% {
-  opacity: 0.5;
+  opacity: 0.3;
  }
 
  100% {
-  transform: scale(1) translateY(-2000%) rotate(0deg);
-  opacity: 0;
+  transform: scale(1) translateY(-15000%) rotate(0deg);
+  opacity: 0.3;
  }
 }
 
@@ -156,6 +173,7 @@
 
 section .ocean {
  position: absolute;
+ z-index: 0 !important; 
  bottom: 0;
  left: 0;
  width: 100%;
@@ -172,7 +190,7 @@ section .ocean-front {
  height: 10px;
  background: #00c2ef;
  background-size: 1000px 100px;
- z-index: 6;
+ z-index: 6 !important;
 }
 
 section .wave {
@@ -187,7 +205,7 @@ section .wave {
 
 section .wave.wave1 {
  animation: animate 45s linear infinite;
- z-index: 3;
+ z-index: 3 !important;
  opacity: 1;
  animation-delay: 0s;
  bottom: 33px;
@@ -196,7 +214,7 @@ section .wave.wave1 {
 
 section .wave.wave2 {
  animation: animate2 30s linear infinite;
- z-index: 4;
+ z-index: 4 !important;
  opacity: 1;
  animation-delay: -7s;
  bottom: 22px;
@@ -205,7 +223,7 @@ section .wave.wave2 {
 
 section .wave.wave3 {
  animation: animate3 35s linear infinite;
- z-index: 5;
+ z-index: 5 !important;
  opacity: 1;
  animation-delay: -2s;
  bottom: 11px;
@@ -214,7 +232,7 @@ section .wave.wave3 {
 
 section .wave.wave4 {
  animation: animate4 30s linear infinite;
- z-index: 6;
+ z-index: 6 !important;
  opacity: 1;
  animation-delay: -5s;
  bottom: 0px;
@@ -230,7 +248,7 @@ section .low-1 {
  background: rgba(146, 146, 146, 0.4);
  filter: blur(10px);
  background-size: 1000px 100px;
- z-index: 3;
+ z-index: 3 !important;
 }
 
 section .low-2 {
@@ -242,7 +260,7 @@ section .low-2 {
  background: rgba(146, 146, 146, 0.3);
  filter: blur(20px);
  background-size: 1000px 100px;
- z-index: 4;
+ z-index: 4 !important;
 }
 section .low-3 {
  position: absolute;
@@ -253,7 +271,7 @@ section .low-3 {
  background: rgba(146, 146, 146, 0.2);
  filter: blur(20px);
  background-size: 1000px 100px;
- z-index: 5;
+ z-index: 5 !important;
 }
 /* section .low-4 {
  position: absolute;
