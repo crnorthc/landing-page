@@ -18,12 +18,11 @@
   <title>Vapur</title>
  </head>
  <body>
-  <div class="absolute pt-4 w-full px-5 sm:pt-6 sm:px-12 z-20">
+  <div class="fixed w-full z-20">
    <div
     class="
+     home-nav
      relative
-     bg-medium
-     rounded-md
      p-5
      flex flex-col
      sm:flex-row
@@ -257,17 +256,38 @@
    </section>
   </div>
 
-  <div
+  <section
+   id="features"
+   class="bg-secondary pt-20 sm:pt-40 pb-10 sm:pb-20 px-5 sm:px-10"
+  >
+   <h2 class="text-light text-5xl sm:text-6xl pt-3 text-center">
+    Game Overview
+   </h2>
+
+   <p
+    class="text-light mx-auto max-w-4xl text-xl sm:text-2xl text-center pt-10"
+   >
+    Fantasy trading on Vapur is modeled after the core concepts of fantasy
+    sports leagues. However, instead of players, users will create a lineup of
+    stocks and/or cryptos and instead of games, the markets will be used to
+    determine the success of an individual’s lineup. Users of Vapur will have
+    three leagues to choose from when selecting a game: stocks, cryptos, and the
+    combination of both. By basing Vapur’s core concepts on fantasy sports
+    leagues, anyone will have the ability to play! Breaking down the gaming
+    experience, there are two main components: choosing a league and creating a
+    lineup.
+   </p>
+  </section>
+
+  <section
    id="features"
    class="
     bg-gradient-to-b
     from-secondary
     via-red-500
     to-dark
-    pt-20
-    sm:pt-40
-    pb-10
-    sm:pb-20
+    py-10
+    sm:py-20
     px-5
     sm:px-10
    "
@@ -275,9 +295,18 @@
    <h2 class="text-light text-5xl sm:text-6xl pt-3 text-center">Features</h2>
 
    <div class="pt-16 sm:pt-24">
-    <h3 class="text-center text-light text-4xl sm:text-5xl pb-10">
+    <h3 class="text-center text-light text-4xl sm:text-5xl pb-5">
      Join Games!
     </h3>
+    <p
+     class="text-light mx-auto max-w-4xl text-xl sm:text-2xl text-center pb-10"
+    >
+     Players will have three leagues to choose from: stocks, cryptos, and the
+     combination of both. The stock and combo game types will be available daily
+     (from 9:30 A.M. to 4:30 P.M.), weekly (Mon – Fri) and quarterly (following
+     the financial quarters). Games of the crypto type will be offered daily
+     (9:30 A.M. – 9:30 A.M) and weekly (Monday 9:30 A.M. – Monday 9:30 A.M.).
+    </p>
 
     <div class="flex flex-col p-10 bg-dark mx-auto max-w-6xl rounded-xl">
      <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
@@ -569,9 +598,18 @@
    </div>
 
    <div class="pt-16 sm:pt-24">
-    <h3 class="text-center text-light text-4xl sm:text-5xl pb-10">
+    <h3 class="text-center text-light text-4xl sm:text-5xl pb-5">
      Grow Your Portfolio!
     </h3>
+    <p
+     class="text-light mx-auto max-w-4xl text-xl sm:text-2xl text-center pb-10"
+    >
+     Once a player chooses a game, they have until the start time to choose
+     their lineup of stocks, cryptos, or both. For every game, players will have
+     $100,000 to allocate on the securities offered in game (stocks, cryptos, or
+     both). Once chosen, players will submit their lineup and watch as their
+     portfolio grows or shrinks.
+    </p>
 
     <div
      class="
@@ -1169,13 +1207,13 @@
      </div>
     </div>
    </div>
-  </div>
+  </section>
 
   <section class="bg-dark" id="roadmap">
    <h2 class="text-light text-5xl sm:text-6xl text-center pt-10 sm:pt-20">
     Roadmap
    </h2>
-   <div class="wrapper max-w-7xl mx-auto py-10 sm:py-20 px-6 sm:px-20 relative">
+   <div class="wrapper max-w-7xl mx-auto pt-20 pb-10 px-6 sm:px-20 relative">
     <div
      class="
       roadmapCenter-line
@@ -1409,6 +1447,14 @@
   </div>
 
   <script>
+   let nav = document.querySelector(".home-nav");
+
+   if (nav) {
+    window.addEventListener("scroll", () => {
+     nav.classList.toggle("scrolling-active", window.scrollY > 0);
+    });
+   }
+
    function createToken() {
     const fuck = document.querySelector(".showcase");
     const token = document.createElement("img");
