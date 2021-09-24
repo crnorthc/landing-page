@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 @import url("https://fonts.googleapis.com/css2?family=Glory:wght@600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 /* page dividers */
 
@@ -29,7 +30,11 @@
  margin: 0;
  padding: 0;
  box-sizing: border-box;
- font-family: "Glory", sans-serif;
+ font-family: 'Poppins', sans-serif;
+}
+
+.glory {
+   font-family: 'Glory', sans-serif !important;
 }
 
 /* Navbar */
@@ -63,7 +68,7 @@
 }
 
 .moving-chart {
- animation: chartAnimate 10s linear infinite;
+ animation: chartAnimate 20s linear infinite;
 }
 
 @keyframes chartAnimate {
@@ -181,7 +186,7 @@ section .wave {
 }
 
 section .wave.wave1 {
- animation: animate 30s linear infinite;
+ animation: animate 45s linear infinite;
  z-index: 3;
  opacity: 1;
  animation-delay: 0s;
@@ -190,7 +195,7 @@ section .wave.wave1 {
 }
 
 section .wave.wave2 {
- animation: animate2 15s linear infinite;
+ animation: animate2 30s linear infinite;
  z-index: 4;
  opacity: 1;
  animation-delay: -7s;
@@ -199,7 +204,7 @@ section .wave.wave2 {
 }
 
 section .wave.wave3 {
- animation: animate3 25s linear infinite;
+ animation: animate3 35s linear infinite;
  z-index: 5;
  opacity: 1;
  animation-delay: -2s;
@@ -208,7 +213,7 @@ section .wave.wave3 {
 }
 
 section .wave.wave4 {
- animation: animate4 15s linear infinite;
+ animation: animate4 30s linear infinite;
  z-index: 6;
  opacity: 1;
  animation-delay: -5s;
