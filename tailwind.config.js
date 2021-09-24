@@ -21,6 +21,8 @@ module.exports = {
    skyblue: "#209fff",
    greenHue: "#28a74542",
    redHue: "#FF000042",
+   greenHueHover: "#28a74667",
+   redHueHover: "#ff00005d",
   },
  },
  variants: {
