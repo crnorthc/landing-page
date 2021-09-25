@@ -100,6 +100,10 @@ section * {
  transition: background-color 0.2s linear;
 }
 
+.tokenCont{
+   overflow: hidden;
+}
+
 .token:hover {
  background-color: #eee;
 }
