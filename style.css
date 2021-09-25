@@ -356,15 +356,6 @@ section .low-3 {
  height: 69% !important;
 }
 
-.wrapper .roadmapRow section::before {
- position: absolute;
- content: "";
- height: 12px;
- width: 12px;
- background: #ffb900;
- top: 50px;
- transform: rotate(45deg);
-}
 
 .roadmapRow-1 section::before {
  right: -14px;
