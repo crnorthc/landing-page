@@ -4,8 +4,9 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="https://s3.amazonaws.com/www.vapur.io/style.css"/>
-  <link rel="stylesheet" href="https://s3.amazonaws.com/www.vapur.io/tailwind.css"/> 
+  <link rel='stylesheet' href='style.css'/>
+  <link rel='stylesheet' href='tailwind.css'/>
+
 
 
 
@@ -777,7 +778,7 @@
     <div
      class="
       bg-dark
-      px-5
+      px-2
       py-10
       over-tokens
       rounded-xl
@@ -2097,7 +2098,13 @@
    }
 
    function createToken() {
-    const fuck = document.querySelector(".tokenCont"); //Tokens rise from here
+    let top = Math.random();
+    if (top > .5) {
+        var fuck = document.querySelector(".showcase");
+    }
+    else {
+        fuck = document.querySelector(".tokenCont");
+    }
     const token = document.createElement("img");
     let crypto = Math.floor(Math.random() * 4);
     let size = Math.random() * 50;
@@ -2139,7 +2146,7 @@
      token.remove();
     }, 200000);
    }
-   setInterval(createToken, 5000);
+   setInterval(createToken, 2500);
 
    // accordion
    const accordion = document.getElementsByClassName("accordionContentBx");
